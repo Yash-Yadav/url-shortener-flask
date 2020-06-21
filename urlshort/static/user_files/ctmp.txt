@@ -1,0 +1,29 @@
+miloF @lopoys [Locked]
+Filza Tariq @FilzaTariq4
+iFunky @iFunky5
+
+https://g91.tcsion.com/LX/file_handlers/show_file?c_id=tcs-xplore-software-foundation-algorithm-and-desig-356-2030&amp;id=30515&amp;name=imgmagick1559195872_000000000.jpg&amp;page_no=0
+------------Refactor-> APIs with Python
+2Max posts:- like RT
+-Yash
+-Subham
+-TutsLink
+-Pablo
+
+-> BlogPost
++===============================================+
++		       UWP			+
+4-API-calls
+5-cognitive-vision-api-call
+
+9--Azure-notifications-hub-UWP
+10-Azure-notifications-hub-Xamarin.Android
++===============================================+
+Dates: 01,10,15,20,25,28
+
+
+-TCS-Xplore
+
+ASP-
+--M3-Building a Details Page
+https://app.pluralsight.com/course-player?clipId=e393414b-69fd-4a4e-92e8-25bcf60b10ff
